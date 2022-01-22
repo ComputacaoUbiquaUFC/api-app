@@ -4,22 +4,22 @@ import { v4 as uuidV4 } from "uuid";
 @Entity("users")
 class User {
   @PrimaryColumn()
-  id?: string;
+  id: string;
 
   @Column()
-  nome!: string;
+  nome: string;
 
   @Column()
-  cpf!: string;
+  cpf: string;
 
   @Column()
-  email?: string;
+  email: string;
 
   @Column()
   senha: string;
 
   @CreateDateColumn()
-  created_at!: Date;
+  created_at: Date;
 
   constructor() {
     if (!this.id) {
