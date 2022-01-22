@@ -13,3 +13,7 @@ docker logs -f api-app
 para visualizar url local do database para acesso via beekeper
 
 docker exec database cat /etc/hosts
+
+Apos startar o projeto criar as tabelas com o comando a baixo do Typeorm
+
+ yarn typeorm migrations:run

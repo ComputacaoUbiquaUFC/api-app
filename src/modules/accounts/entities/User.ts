@@ -16,7 +16,7 @@ class User {
   email?: string;
 
   @Column()
-  senha!: string;
+  senha: string;
 
   @CreateDateColumn()
   created_at!: Date;
