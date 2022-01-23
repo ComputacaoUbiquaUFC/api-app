@@ -1,6 +1,7 @@
 import { sign } from "jsonwebtoken";
 import { inject, injectable } from "tsyringe";
 
+import { AppError } from "../../../../errors/AppError";
 import { IUsersRepository } from "../../repositories/IUsersRepository";
 
 interface IRequest {
@@ -27,11 +28,11 @@ class AuthenticateUserUseCase {
     const user = await this.usersRepository.findByEmail(email);
 
     if (!user) {
-      throw new Error("Email ou senha incorrect");
+      throw new AppError("Email ou senha incorrect");
     }
 
     if (user.senha !== senha) {
-      throw new Error("Email ou senha incorrect");
+      throw new AppError("Email ou senha incorrect");
     }
 
     const token = sign({}, "451909515652da74f9f3c5a8184d7ff3", {
