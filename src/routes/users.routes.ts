@@ -10,7 +10,7 @@ const createUserController = new CreateUserController();
 
 const listUserController = new ListUserController();
 
-// usersRoutes.use("/:id", ensureAuthenticated);
+usersRoutes.use("/:id", ensureAuthenticated);
 
 usersRoutes.post("/", createUserController.handle);
 usersRoutes.get("/:id", listUserController.handle);
