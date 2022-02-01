@@ -1,7 +1,7 @@
 {
-  "type": "FeatureCollection",
-  "features": [
+  "estacoes": [
     {
+      "id": 1,
       "geometry": { "type": "Point", "coordinates": [-38.510347, -3.7321944] },
       "type": "Feature", 
       "properties": {
@@ -13,11 +13,11 @@
         "endereco": "Avenida Santos Dumont, 1546, ao lado da Coord. do Gov. do Estado do Ceará; / Esquina Carlos Vasconcelos",
         "qtd_bikes_disp_2": "1",
         "estacao": "Coord. do Gov. do Estado do Ceará",
-        "id": 1,
         "status_online": "I"
       }
     },
     {
+      "id": 2,
       "geometry": { "type": "Point", "coordinates": [-38.504149, -3.7341732] },
       "type": "Feature",
       "properties": {
@@ -29,11 +29,11 @@
         "endereco": "Rua José Vilar, lateral do 2353 (Restaurante Zahlé) / Esquina Avenida Santos Dumont",
         "qtd_bikes_disp_2": "5",
         "estacao": "Restaurante Zahlé",
-        "id": 2,
         "status_online": "A"
       }
     },
-    {
+    { 
+      "id": 3,
       "geometry": { "type": "Point", "coordinates": [-38.49683, -3.7367176] },
       "type": "Feature",
       "properties": {
@@ -45,11 +45,11 @@
         "endereco": "Avenida Santos Dumont, 3131 (Shopping del Paseo) / Esquina Rua Leonardo Mota",
         "qtd_bikes_disp_2": "0",
         "estacao": "Shopping Del Paseo",
-        "id": 3,
         "status_online": "A"
       }
     },
     {
+      "id": 4,
       "geometry": { "type": "Point", "coordinates": [-38.491694, -3.7383129] },
       "type": "Feature",
       "properties": {
@@ -61,11 +61,11 @@
         "endereco": "Avenida Santos Dumont, oposto ao BNB Clube / Esquina Rua Coronel Jucá",
         "qtd_bikes_disp_2": "1",
         "estacao": "BNB Clube",
-        "id": 4,
         "status_online": "A"
       }
     },
     {
+      "id": 5,
       "geometry": { "type": "Point", "coordinates": [-38.488797, -3.7359524] },
       "type": "Feature",
       "properties": {
@@ -77,11 +77,11 @@
         "endereco": "Rua Dom Luís, 1400B / Esquina Rua Frei Mansueto",
         "qtd_bikes_disp_2": "0",
         "estacao": "",
-        "id": 5,
         "status_online": "I"
       }
     },
     {
+      "id": 6,
       "geometry": { "type": "Point", "coordinates": [-38.492451, -3.7349344] },
       "type": "Feature",
       "properties": {
@@ -93,11 +93,11 @@
         "endereco": "Rua Senador Virgílio Távora, lateral do n&#250;mero 1010 (Shopping Varanda) / Esquina Rua Dom Luís",
         "qtd_bikes_disp_2": "2",
         "estacao": "Livraria Cultura",
-        "id": 6,
         "status_online": "A"
       }
     },
     {
+      "id": 7,
       "geometry": { "type": "Point", "coordinates": [-38.496469, -3.7337521] },
       "type": "Feature",
       "properties": {
@@ -109,11 +109,11 @@
         "endereco": "Rua Barbosa de Freitas, 820 / Esquina Rua Dom Luís",
         "qtd_bikes_disp_2": "0",
         "estacao": "Shopping Aldeota",
-        "id": 7,
         "status_online": "I"
       }
     },
     {
+      "id": 8,
       "geometry": { "type": "Point", "coordinates": [-38.500273, -3.7321014] },
       "type": "Feature",
       "properties": {
@@ -125,11 +125,11 @@
         "endereco": "Rua Joaquim Nabuco, 730 / Esquina Rua Dom Luís",
         "qtd_bikes_disp_2": "0",
         "estacao": "",
-        "id": 8,
         "status_online": "A"
       }
     },
     {
+      "id": 9,
       "geometry": { "type": "Point", "coordinates": [-38.506248, -3.7267958] },
       "type": "Feature",
       "properties": {
@@ -141,11 +141,11 @@
         "endereco": "Rua Deputado Moreira da Rocha, lateral do n&#250;mero 475 / Esquina Rua Rui Barbosa",
         "qtd_bikes_disp_2": "1",
         "estacao": "",
-        "id": 9,
         "status_online": "A"
       }
     },
     {
+      "id": 10,
       "geometry": { "type": "Point", "coordinates": [-38.502894, -3.7302816] },
       "type": "Feature",
       "properties": {
@@ -157,11 +157,11 @@
         "endereco": "Rua José Vilar, 540 / Esquina Rua Tenente Benévolo",
         "qtd_bikes_disp_2": "0",
         "estacao": "",
-        "id": 10,
         "status_online": "A"
       }
     },
     {
+      "id": 11,
       "geometry": { "type": "Point", "coordinates": [-38.496304, -3.730343] },
       "type": "Feature",
       "properties": {
@@ -173,11 +173,11 @@
         "endereco": "Rua Canuto de Aguiar, 712B / Esquina Rua Desembargador Moreira",
         "qtd_bikes_disp_2": "2",
         "estacao": "",
-        "id": 11,
         "status_online": "A"
       }
     },
     {
+      "id": 12,
       "geometry": { "type": "Point", "coordinates": [-38.491505, -3.7308997] },
       "type": "Feature",
       "properties": {
@@ -189,11 +189,11 @@
         "endereco": "Rua Ana Bilhar, 1001 (Loja Terra Brasilis) / Esquina Avenida Senador Virgílio Távora",
         "qtd_bikes_disp_2": "1",
         "estacao": "",
-        "id": 12,
         "status_online": "A"
       }
     },
     {
+      "id": 13,
       "geometry": { "type": "Point", "coordinates": [-38.511546, -3.7201971] },
       "type": "Feature",
       "properties": {
@@ -205,11 +205,11 @@
         "endereco": "Avenida Beira Mar, 916 (Loja Sorvet&#227;o) / Esquina Rua Jo&#227;o Cordeiro",
         "qtd_bikes_disp_2": "10",
         "estacao": "Sorvet&#227;o",
-        "id": 13,
         "status_online": "A"
       }
     },
     {
+      "id": 14,
       "geometry": { "type": "Point", "coordinates": [-38.505394, -3.7233893] },
       "type": "Feature",
       "properties": {
@@ -221,11 +221,11 @@
         "endereco": "Rua Rui Barbosa, 1680 (Boteco da Praia) / Esquina Avenida Beira Mar",
         "qtd_bikes_disp_2": "2",
         "estacao": "Boteco da Praia",
-        "id": 14,
         "status_online": "A"
       }
     },
     {
+      "id": 15,
       "geometry": { "type": "Point", "coordinates": [-38.494134, -3.7259608] },
       "type": "Feature",
       "properties": {
@@ -237,11 +237,11 @@
         "endereco": "Avenida Beira Mar, 2982 / Pr&#243;ximo ao Náutico Clube",
         "qtd_bikes_disp_2": "11",
         "estacao": "50 Sabores",
-        "id": 15,
         "status_online": "A"
       }
     },
     {
+      "id": 16,
       "geometry": { "type": "Point", "coordinates": [-38.525847, -3.7232681] },
       "type": "Feature",
       "properties": {
@@ -253,11 +253,11 @@
         "endereco": "Rua Floriano Peixoto, 101 / Esquina Rua Doutor Jo&#227;o Moreira",
         "qtd_bikes_disp_2": "3",
         "estacao": "Rua Floriano Peixoto",
-        "id": 16,
         "status_online": "A"
       }
     },
     {
+      "id": 17,
       "geometry": { "type": "Point", "coordinates": [-38.525549, -3.7257252] },
       "type": "Feature",
       "properties": {
@@ -269,11 +269,11 @@
         "endereco": "Avenida Conde D&#180;Eu, em frente ao Centro Cultural BNB / Esquina Rua Senador Almir Pinto",
         "qtd_bikes_disp_2": "2",
         "estacao": "Catedral",
-        "id": 17,
         "status_online": "A"
       }
     },
     {
+      "id": 18,
       "geometry": { "type": "Point", "coordinates": [-38.527609, -3.7279896] },
       "type": "Feature",
       "properties": {
@@ -285,11 +285,11 @@
         "endereco": "Pra&#231;a do Ferreira, na Rua Floriano Peixoto, 625 / Esquina Rua Pedro Borges",
         "qtd_bikes_disp_2": "5",
         "estacao": "Pra&#231;a do Ferreira",
-        "id": 18,
         "status_online": "A"
       }
     },
     {
+      "id": 19,
       "geometry": { "type": "Point", "coordinates": [-38.52663, -3.7316979] },
       "type": "Feature",
       "properties": {
@@ -301,11 +301,11 @@
         "endereco": "Rua Solon Pinheiro, oposto ao Mercado Super Lagoa / Esquina Rua Dom Pedro I",
         "qtd_bikes_disp_2": "3",
         "estacao": "Pra&#231;a Cora&#231;&#227;o de Jesus",
-        "id": 19,
         "status_online": "A"
       }
     },
     {
+      "id": 20,
       "geometry": { "type": "Point", "coordinates": [-38.519359, -3.7217398] },
       "type": "Feature",
       "properties": {
@@ -317,11 +317,11 @@
         "endereco": "Rua Drag&#227;o do Mar, em frente ao Centro Drag&#227;o do Mar / Esquina Rua Almirante Jaceguai",
         "qtd_bikes_disp_2": "4",
         "estacao": "Drag&#227;o do Mar",
-        "id": 20,
         "status_online": "A"
       }
     },
     {
+      "id": 21,
       "geometry": { "type": "Point", "coordinates": [-38.514743, -3.7238918] },
       "type": "Feature",
       "properties": {
@@ -333,11 +333,11 @@
         "endereco": "Rua Monsenhor Tabosa, 518 / Esquina Rua Nogueira Acioli",
         "qtd_bikes_disp_2": "9",
         "estacao": "Monsenhor Tabosa",
-        "id": 21,
         "status_online": "A"
       }
     },
     {
+      "id": 22,
       "geometry": { "type": "Point", "coordinates": [-38.513479, -3.7266326] },
       "type": "Feature",
       "properties": {
@@ -349,11 +349,11 @@
         "endereco": "Rua Jo&#227;o Cordeiro, oposto a EEFM Santa Luzia / Esquina Rua Tenente Benévolo",
         "qtd_bikes_disp_2": "4",
         "estacao": "EEFM Santa Luzia",
-        "id": 22,
         "status_online": "A"
       }
     },
     {
+      "id": 23,
       "geometry": { "type": "Point", "coordinates": [-38.514873, -3.7307919] },
       "type": "Feature",
       "properties": {
@@ -365,11 +365,11 @@
         "endereco": "Avenida Santos Dumont / Esquina Rua Jo&#227;o Cordeiro",
         "qtd_bikes_disp_2": "1",
         "estacao": "UNIMED",
-        "id": 23,
         "status_online": "A"
       }
     },
     {
+      "id": 24,
       "geometry": { "type": "Point", "coordinates": [-38.509719, -3.7368529] },
       "type": "Feature",
       "properties": {
@@ -381,11 +381,11 @@
         "endereco": "Rua Rui Barbosa, em frente ao SENAC / Esquina Rua Jo&#227;o Carvalho",
         "qtd_bikes_disp_2": "2",
         "estacao": "SENAC",
-        "id": 24,
         "status_online": "A"
       }
     },
     {
+      "id": 25,
       "geometry": { "type": "Point", "coordinates": [-38.501927, -3.7372182] },
       "type": "Feature",
       "properties": {
@@ -397,11 +397,11 @@
         "endereco": "Rua Joaquim Nabuco, em frente ao Edifício Embratel / Esquina Rua Torres C&#226;mara",
         "qtd_bikes_disp_2": "0",
         "estacao": "Edifício Embratel",
-        "id": 25,
         "status_online": "A"
       }
     },
     {
+      "id": 26,
       "geometry": { "type": "Point", "coordinates": [-38.501572, -3.742715] },
       "type": "Feature",
       "properties": {
@@ -413,11 +413,11 @@
         "endereco": "Rua Visconde de Mauá, em frente ao FIC Aldeota / Esquina Rua General Tertuliano Potiguara",
         "qtd_bikes_disp_2": "0",
         "estacao": "FIC Aldeota",
-        "id": 26,
         "status_online": "A"
       }
     },
     {
+      "id": 27,
       "geometry": { "type": "Point", "coordinates": [-38.498687, -3.7403203] },
       "type": "Feature",
       "properties": {
@@ -429,11 +429,11 @@
         "endereco": "Pra&#231;a General Eldoro Correia, na Rua Barbosa de Freitas, 500 / Esquina Av. Padre Ant&#244;nio Tomás",
         "qtd_bikes_disp_2": "0",
         "estacao": "Pra&#231;a das Flores",
-        "id": 27,
         "status_online": "A"
       }
     },
     {
+      "id": 28,
       "geometry": { "type": "Point", "coordinates": [-38.509695, -3.7431306] },
       "type": "Feature",
       "properties": {
@@ -445,11 +445,11 @@
         "endereco": "Av. Antonio Sales, em frente ao Carrefour / Esquina Avenida Bar&#227;o de Studart",
         "qtd_bikes_disp_2": "0",
         "estacao": "Carrefour",
-        "id": 28,
         "status_online": "A"
       }
     },
     {
+      "id": 29,
       "geometry": { "type": "Point", "coordinates": [-38.501683, -3.7457482] },
       "type": "Feature",
       "properties": {
@@ -461,11 +461,11 @@
         "endereco": "Avenida Ant&#244;nio Sales, na Pra&#231;a da Imprensa / Esquina Avenida Desembargador Moreira",
         "qtd_bikes_disp_2": "0",
         "estacao": "Pra&#231;a da Imprensa",
-        "id": 29,
         "status_online": "A"
       }
     },
     {
+      "id": 30,
       "geometry": { "type": "Point", "coordinates": [-38.502065, -3.7511158] },
       "type": "Feature",
       "properties": {
@@ -477,11 +477,11 @@
         "endereco": "Rua Barbosa de Freitas, em frente a Assembléia Legislativa (Edificio Senador César Cals) / Esquina Avenida Pontes Vieira",
         "qtd_bikes_disp_2": "9",
         "estacao": "Assembléia Legislativa",
-        "id": 30,
         "status_online": "A"
       }
     },
     {
+      "id": 31,
       "geometry": { "type": "Point", "coordinates": [-38.485177, -3.738701] },
       "type": "Feature",
       "properties": {
@@ -493,11 +493,11 @@
         "endereco": "Rua Pereira de Miranda, em frente ao Terminal do Papicu / Pr&#243;ximo &#224; Avenida Almirante Henrique Sab&#243;ia",
         "qtd_bikes_disp_2": "3",
         "estacao": "Terminal de Papicu",
-        "id": 31,
         "status_online": "A"
       }
     },
     {
+      "id": 32,
       "geometry": { "type": "Point", "coordinates": [-38.5376, -3.7425364] },
       "type": "Feature",
       "properties": {
@@ -509,11 +509,11 @@
         "endereco": "Rua Waldery Uchoa, 2861 / Esquina Avenida 13 de Maio",
         "qtd_bikes_disp_2": "2",
         "estacao": "Pra&#231;a da Gentil&#226;ndia",
-        "id": 32,
         "status_online": "A"
       }
     },
     {
+      "id": 33,
       "geometry": { "type": "Point", "coordinates": [-38.539513, -3.7388161] },
       "type": "Feature",
       "properties": {
@@ -525,11 +525,11 @@
         "endereco": "Rua Juvenal Galeno, lateral do Shopping Benfica / Esquina Avenida Carapinima",
         "qtd_bikes_disp_2": "2",
         "estacao": "Shopping Benfica",
-        "id": 33,
         "status_online": "A"
       }
     },
     {
+      "id": 34,
       "geometry": { "type": "Point", "coordinates": [-38.539251, -3.7409506] },
       "type": "Feature",
       "properties": {
@@ -541,11 +541,11 @@
         "endereco": "Avenida da Universidade, 2854 / Esquina Av. 13 de Maio",
         "qtd_bikes_disp_2": "0",
         "estacao": "UFC",
-        "id": 34,
         "status_online": "A"
       }
     },
     {
+      "id": 35,
       "geometry": { "type": "Point", "coordinates": [-38.532429, -3.733079] },
       "type": "Feature",
       "properties": {
@@ -557,11 +557,11 @@
         "endereco": "Pra&#231;a da Bandeira, na Meton de Alencar, oposto a Faculdade de Direito / Esquina Rua General Sampaio",
         "qtd_bikes_disp_2": "2",
         "estacao": "Faculdade de Direito",
-        "id": 35,
         "status_online": "A"
       }
     },
     {
+      "id": 36,
       "geometry": { "type": "Point", "coordinates": [-38.542764, -3.7314396] },
       "type": "Feature",
       "properties": {
@@ -573,11 +573,11 @@
         "endereco": "Pra&#231;a Otávio Bonfim / Esquina Rua Justiniano de Serpa",
         "qtd_bikes_disp_2": "6",
         "estacao": "Pra&#231;a Otávio Bonfim",
-        "id": 36,
         "status_online": "A"
       }
     },
     {
+      "id": 37,
       "geometry": { "type": "Point", "coordinates": [-38.547983, -3.732094] },
       "type": "Feature",
       "properties": {
@@ -589,11 +589,11 @@
         "endereco": "Avenida Bezerra de Menezes, 334 / Esquina Rua Ribeiro da Silva",
         "qtd_bikes_disp_2": "8",
         "estacao": "Parque Araxá",
-        "id": 37,
         "status_online": "A"
       }
     },
     {
+      "id": 38,
       "geometry": { "type": "Point", "coordinates": [-38.551978, -3.7331071] },
       "type": "Feature",
       "properties": {
@@ -605,11 +605,11 @@
         "endereco": "Canteiro Central da Avenida Bezerra de Menezes, 801 / Esquina Rua Padre Anchieta",
         "qtd_bikes_disp_2": "9",
         "estacao": "Instituto dos Cegos",
-        "id": 38,
         "status_online": "A"
       }
     },
     {
+      "id": 39,
       "geometry": { "type": "Point", "coordinates": [-38.550369, -3.7284071] },
       "type": "Feature",
       "properties": {
@@ -621,11 +621,11 @@
         "endereco": "Pra&#231;a Jo&#227;o Pontes, 643 / Esquina Rua Ant&#244;nio Drumond",
         "qtd_bikes_disp_2": "11",
         "estacao": "Pra&#231;a Monte Castelo",
-        "id": 39,
         "status_online": "A"
       }
     },
     {
+      "id": 40,
       "geometry": { "type": "Point", "coordinates": [-38.551085, -3.7249075] },
       "type": "Feature",
       "properties": {
@@ -637,11 +637,11 @@
         "endereco": "Rua Padre Anchieta, em frente ao Supermercado Frangol&#226;ndia / Esquina Avenida Sargento Hermínio Sampaio",
         "qtd_bikes_disp_2": "14",
         "estacao": "Supermercado Frangol&#226;ndia",
-        "id": 40,
         "status_online": "A"
       }
     },
     {
+      "id": 41,
       "geometry": { "type": "Point", "coordinates": [-38.563427, -3.7354169] },
       "type": "Feature",
       "properties": {
@@ -653,11 +653,11 @@
         "endereco": "Avenida Bezerra de Menezes, 2080 / Esquina Rua Eduardo Barros Leal",
         "qtd_bikes_disp_2": "11",
         "estacao": "Esquina com a Rua Eduardo Barros Leal",
-        "id": 41,
         "status_online": "A"
       }
     },
     {
+      "id": 42,
       "geometry": { "type": "Point", "coordinates": [-38.565929, -3.7357836] },
       "type": "Feature",
       "properties": {
@@ -669,11 +669,11 @@
         "endereco": "Avenida Bezerra de Menezes, 2500",
         "qtd_bikes_disp_2": "4",
         "estacao": "North Shopping",
-        "id": 42,
         "status_online": "A"
       }
     },
     {
+      "id": 43,
       "geometry": { "type": "Point", "coordinates": [-38.569411, -3.738618] },
       "type": "Feature",
       "properties": {
@@ -685,11 +685,11 @@
         "endereco": "Rua Acesso P&#250;blico, pr&#243;ximo &#224; entrada da UFC / Esquina com a Avenida Humberto Monte",
         "qtd_bikes_disp_2": "2",
         "estacao": "UFC",
-        "id": 43,
         "status_online": "A"
       }
     },
     {
+      "id": 44,
       "geometry": { "type": "Point", "coordinates": [-38.560732, -3.7410188] },
       "type": "Feature",
       "properties": {
@@ -701,11 +701,11 @@
         "endereco": "Rua Professor Lino Encarna&#231;&#227;o, em frente &#224; Par&#243;quia de Santo Afonso &#8211; Igreja Redonda / Esquina Avenida Jovita Feitosa",
         "qtd_bikes_disp_2": "11",
         "estacao": "Igreja Redonda",
-        "id": 44,
         "status_online": "A"
       }
     },
     {
+      "id": 45,
       "geometry": { "type": "Point", "coordinates": [-38.556388, -3.739702] },
       "type": "Feature",
       "properties": {
@@ -717,11 +717,11 @@
         "endereco": "Rua Dom Lino, 590 / Esquina Avenida Jovita Feitosa, lateral da Secretaria Regional 3",
         "qtd_bikes_disp_2": "12",
         "estacao": "Secretaria Regional 3",
-        "id": 45,
         "status_online": "A"
       }
     },
     {
+      "id": 46,
       "geometry": { "type": "Point", "coordinates": [-38.553127, -3.7489708] },
       "type": "Feature",
       "properties": {
@@ -733,11 +733,11 @@
         "endereco": "Rua Coronel Nunes de Melo, 1315 (UFC) / Esquina Rua Professor Costa Mendes",
         "qtd_bikes_disp_2": "8",
         "estacao": "",
-        "id": 46,
         "status_online": "A"
       }
     },
     {
+      "id": 47,
       "geometry": { "type": "Point", "coordinates": [-38.550532, -3.7490591] },
       "type": "Feature",
       "properties": {
@@ -749,11 +749,11 @@
         "endereco": "Rua Alexandre Bara&#250;na, 773 / Esquina Rua Capit&#227;o Francisco Pedro",
         "qtd_bikes_disp_2": "2",
         "estacao": "",
-        "id": 47,
         "status_online": "A"
       }
     },
     {
+      "id": 48,
       "geometry": { "type": "Point", "coordinates": [-38.546632, -3.7509275] },
       "type": "Feature",
       "properties": {
@@ -765,11 +765,11 @@
         "endereco": "Rua Carlos C&#226;mara / Rua Delmiro Faria, em frente &#224; Pra&#231;a Jardim América",
         "qtd_bikes_disp_2": "12",
         "estacao": "",
-        "id": 48,
         "status_online": "A"
       }
     },
     {
+      "id": 49,
       "geometry": { "type": "Point", "coordinates": [-38.546358, -3.7553085] },
       "type": "Feature",
       "properties": {
@@ -781,11 +781,11 @@
         "endereco": "Rua Frei Orlando, 684 / EsquinaRua Costa Mendes",
         "qtd_bikes_disp_2": "11",
         "estacao": "",
-        "id": 49,
         "status_online": "A"
       }
     },
     {
+      "id": 50,
       "geometry": { "type": "Point", "coordinates": [-38.540685, -3.7565373] },
       "type": "Feature",
       "properties": {
@@ -797,11 +797,11 @@
         "endereco": "Rua Padre José Piamarta, 128 / Esquina Rua André Chaves",
         "qtd_bikes_disp_2": "12",
         "estacao": "",
-        "id": 50,
         "status_online": "A"
       }
     },
     {
+      "id": 51,
       "geometry": { "type": "Point", "coordinates": [-38.543794, -3.7588242] },
       "type": "Feature",
       "properties": {
@@ -813,11 +813,11 @@
         "endereco": "Rua Afrodísio Gondim, 622 (Sanduíches Bebelu) / Esquina Avenida Professor Gomes de Matos",
         "qtd_bikes_disp_2": "11",
         "estacao": "",
-        "id": 51,
         "status_online": "A"
       }
     },
     {
+      "id": 52,
       "geometry": { "type": "Point", "coordinates": [-38.546939, -3.7627184] },
       "type": "Feature",
       "properties": {
@@ -829,11 +829,11 @@
         "endereco": "Avenida Professor Gomes de Matos, 1157 / Esquina Rua Sátiro Dias",
         "qtd_bikes_disp_2": "11",
         "estacao": "",
-        "id": 52,
         "status_online": "A"
       }
     },
     {
+      "id": 53,
       "geometry": { "type": "Point", "coordinates": [-38.524259, -3.7487194] },
       "type": "Feature",
       "properties": {
@@ -845,11 +845,11 @@
         "endereco": "Rua Coronel Pergentino / Esquina Avenida Aguanambi",
         "qtd_bikes_disp_2": "4",
         "estacao": "",
-        "id": 53,
         "status_online": "A"
       }
     },
     {
+      "id": 54,
       "geometry": { "type": "Point", "coordinates": [-38.525206, -3.7526006] },
       "type": "Feature",
       "properties": {
@@ -861,11 +861,11 @@
         "endereco": "Rua Dom Sebasti&#227;o Leme, em frente &#224; Pra&#231;a Nossa Senhora de Fátima / Esquina Avenida 13 de Maio",
         "qtd_bikes_disp_2": "9",
         "estacao": "",
-        "id": 54,
         "status_online": "A"
       }
     },
     {
+      "id": 55,
       "geometry": { "type": "Point", "coordinates": [-38.53024, -3.7483832] },
       "type": "Feature",
       "properties": {
@@ -877,11 +877,11 @@
         "endereco": "Rua Padre Barbosa de Jesus, oposto ao n&#250;mero 1345 / Esquina com a Avenida 13 de Maio",
         "qtd_bikes_disp_2": "4",
         "estacao": "",
-        "id": 55,
         "status_online": "A"
       }
     },
     {
+      "id": 56,
       "geometry": { "type": "Point", "coordinates": [-38.531948, -3.7506302] },
       "type": "Feature",
       "properties": {
@@ -893,11 +893,11 @@
         "endereco": "Rua Ministro Joaquim Bastos, em frente ao Centro de Humanidade / Esquina Rua Monsenhor Liberato",
         "qtd_bikes_disp_2": "5",
         "estacao": "",
-        "id": 56,
         "status_online": "A"
       }
     },
     {
+      "id": 57,
       "geometry": { "type": "Point", "coordinates": [-38.531637, -3.757763] },
       "type": "Feature",
       "properties": {
@@ -909,11 +909,11 @@
         "endereco": "Avenida Deputado Oswaldo Studart, 1630 (Terminal Rodoviário Engenheiro José Thomé) / Esquina Avenida Borges de Melo",
         "qtd_bikes_disp_2": "9",
         "estacao": "",
-        "id": 57,
         "status_online": "A"
       }
     },
     {
+      "id": 58,
       "geometry": { "type": "Point", "coordinates": [-38.533017, -3.7577769] },
       "type": "Feature",
       "properties": {
@@ -925,11 +925,11 @@
         "endereco": "Rua Moreira Gomes, em frente ao Prédio da OI &#8211; CONTAX / Esquina Avenida Borges de Melo",
         "qtd_bikes_disp_2": "1",
         "estacao": "",
-        "id": 58,
         "status_online": "A"
       }
     },
     {
+      "id": 59,
       "geometry": { "type": "Point", "coordinates": [-38.524917, -3.7393517] },
       "type": "Feature",
       "properties": {
@@ -941,11 +941,11 @@
         "endereco": "Avenida Aguanambi, 282 (Jornal O Povo) / Esquina Avenida Domingos Olímpio",
         "qtd_bikes_disp_2": "3",
         "estacao": "",
-        "id": 59,
         "status_online": "A"
       }
     },
     {
+      "id": 60,
       "geometry": { "type": "Point", "coordinates": [-38.521074, -3.7395911] },
       "type": "Feature",
       "properties": {
@@ -957,11 +957,11 @@
         "endereco": "Avenida Ant&#244;nio Sales, 147 / Esquina Rua Henrique Rab&#234;lo",
         "qtd_bikes_disp_2": "3",
         "estacao": "",
-        "id": 60,
         "status_online": "A"
       }
     },
     {
+      "id": 61,
       "geometry": { "type": "Point", "coordinates": [-38.5607454, -3.722924] },
       "type": "Feature",
       "properties": {
@@ -973,11 +973,11 @@
         "endereco": "Avenida Ant&#244;nio Sales, 147 / Esquina Rua Henrique Rab&#234;lo",
         "qtd_bikes_disp_2": "3",
         "estacao": "",
-        "id": 61,
         "status_online": "A"
       }
     },
     {
+      "id": 62,
       "geometry": { "type": "Point", "coordinates": [-38.5607666, -3.722952] },
       "type": "Feature",
       "properties": {
@@ -989,7 +989,6 @@
         "endereco": "Avenida Ant&#244;nio Sales, 147 / Esquina Rua Henrique Rab&#234;lo",
         "qtd_bikes_disp_2": "3",
         "estacao": "",
-        "id": 62,
         "status_online": "A"
       }
     }

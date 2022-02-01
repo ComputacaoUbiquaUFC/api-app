@@ -29,7 +29,15 @@ services:
     depends_on:
       - database
 
-
+  json-server:
+    container_name: json-server-container
+    image: json-server-image
+    build: ./src/database
+    ports: 
+      - "3000:3000"
+    volumes:
+      - ./src/database/estacoes.json:/data/estacoes.json
+    command: json-server --watch /data/estacoes.json --host 0.0.0.0
 
 volumes:
   pgdata:
