@@ -90,7 +90,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "10",
         "nome": "Livraria Cultura",
-        "endereco": "Rua Senador Virgílio Távora, lateral do n&#250;mero 1010 (Shopping Varanda) / Esquina Rua Dom Luís",
+        "endereco": "Rua Senador Virgílio Távora, lateral do número 1010 (Shopping Varanda) / Esquina Rua Dom Luís",
         "qtd_bikes_disp_2": "2",
         "estacao": "Livraria Cultura",
         "status_online": "A"
@@ -138,7 +138,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "11",
         "nome": "Moreira da Rocha",
-        "endereco": "Rua Deputado Moreira da Rocha, lateral do n&#250;mero 475 / Esquina Rua Rui Barbosa",
+        "endereco": "Rua Deputado Moreira da Rocha, lateral do número 475 / Esquina Rua Rui Barbosa",
         "qtd_bikes_disp_2": "1",
         "estacao": "",
         "status_online": "A"
@@ -202,9 +202,9 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "2",
         "nome": "Aterrinho da Praia de Iracema",
-        "endereco": "Avenida Beira Mar, 916 (Loja Sorvet&#227;o) / Esquina Rua Jo&#227;o Cordeiro",
+        "endereco": "Avenida Beira Mar, 916 (Loja Sorvetão) / Esquina Rua João Cordeiro",
         "qtd_bikes_disp_2": "10",
-        "estacao": "Sorvet&#227;o",
+        "estacao": "Sorvetão",
         "status_online": "A"
       }
     },
@@ -233,8 +233,8 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "1",
-        "nome": "Na&#250;tico",
-        "endereco": "Avenida Beira Mar, 2982 / Pr&#243;ximo ao Náutico Clube",
+        "nome": "Náutico",
+        "endereco": "Avenida Beira Mar, 2982 / Próximo ao Náutico Clube",
         "qtd_bikes_disp_2": "11",
         "estacao": "50 Sabores",
         "status_online": "A"
@@ -249,8 +249,8 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "9",
-        "nome": "Passeio P&#250;blico",
-        "endereco": "Rua Floriano Peixoto, 101 / Esquina Rua Doutor Jo&#227;o Moreira",
+        "nome": "Passeio Público",
+        "endereco": "Rua Floriano Peixoto, 101 / Esquina Rua Doutor João Moreira",
         "qtd_bikes_disp_2": "3",
         "estacao": "Rua Floriano Peixoto",
         "status_online": "A"
@@ -266,7 +266,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "10",
         "nome": "BNB Cultural Catedral",
-        "endereco": "Avenida Conde D&#180;Eu, em frente ao Centro Cultural BNB / Esquina Rua Senador Almir Pinto",
+        "endereco": "Avenida Conde d'Eu, em frente ao Centro Cultural BNB / Esquina Rua Senador Almir Pinto",
         "qtd_bikes_disp_2": "2",
         "estacao": "Catedral",
         "status_online": "A"
@@ -281,10 +281,10 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "7",
-        "nome": "Pra&#231;a do Ferreira",
-        "endereco": "Pra&#231;a do Ferreira, na Rua Floriano Peixoto, 625 / Esquina Rua Pedro Borges",
+        "nome": "Praça do Ferreira",
+        "endereco": "Praça do Ferreira, na Rua Floriano Peixoto, 625 / Esquina Rua Pedro Borges",
         "qtd_bikes_disp_2": "5",
-        "estacao": "Pra&#231;a do Ferreira",
+        "estacao": "Praça do Ferreira",
         "status_online": "A"
       }
     },
@@ -297,10 +297,10 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "9",
-        "nome": "Pra&#231;a Cora&#231;&#227;o de Jesus",
+        "nome": "Praça Coração de Jesus",
         "endereco": "Rua Solon Pinheiro, oposto ao Mercado Super Lagoa / Esquina Rua Dom Pedro I",
         "qtd_bikes_disp_2": "3",
-        "estacao": "Pra&#231;a Cora&#231;&#227;o de Jesus",
+        "estacao": "Praça Coração de Jesus",
         "status_online": "A"
       }
     },
@@ -313,10 +313,10 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "8",
-        "nome": "Drag&#227;o do Mar",
-        "endereco": "Rua Drag&#227;o do Mar, em frente ao Centro Drag&#227;o do Mar / Esquina Rua Almirante Jaceguai",
+        "nome": "Dragão do Mar",
+        "endereco": "Dragão do Mar, em frente ao Centro Dragão do Mar / Esquina Rua Almirante Jaceguai",
         "qtd_bikes_disp_2": "4",
-        "estacao": "Drag&#227;o do Mar",
+        "estacao": "Dragão do Mar",
         "status_online": "A"
       }
     },
@@ -345,8 +345,8 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "8",
-        "nome": "Jo&#227;o Cordeiro",
-        "endereco": "Rua Jo&#227;o Cordeiro, oposto a EEFM Santa Luzia / Esquina Rua Tenente Benévolo",
+        "nome": "João Cordeiro",
+        "endereco": "Rua João Cordeiro, oposto a EEFM Santa Luzia / Esquina Rua Tenente Benévolo",
         "qtd_bikes_disp_2": "4",
         "estacao": "EEFM Santa Luzia",
         "status_online": "A"
@@ -362,7 +362,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "11",
         "nome": "UNIMED",
-        "endereco": "Avenida Santos Dumont / Esquina Rua Jo&#227;o Cordeiro",
+        "endereco": "Avenida Santos Dumont / Esquina Rua João Cordeiro",
         "qtd_bikes_disp_2": "1",
         "estacao": "UNIMED",
         "status_online": "A"
@@ -378,7 +378,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "10",
         "nome": "Rui Barbosa",
-        "endereco": "Rua Rui Barbosa, em frente ao SENAC / Esquina Rua Jo&#227;o Carvalho",
+        "endereco": "Rua Rui Barbosa, em frente ao SENAC / Esquina Rua João Carvalho",
         "qtd_bikes_disp_2": "2",
         "estacao": "SENAC",
         "status_online": "A"
@@ -393,8 +393,8 @@
         "statusInterno": "Est_Vazia -1",
         "status_operacional": "EO",
         "qtd_bikes_total": "12",
-        "nome": "Torres C&#226;mara",
-        "endereco": "Rua Joaquim Nabuco, em frente ao Edifício Embratel / Esquina Rua Torres C&#226;mara",
+        "nome": "Torres Câmara",
+        "endereco": "Rua Joaquim Nabuco, em frente ao Edifício Embratel / Esquina Rua Torres Câmara",
         "qtd_bikes_disp_2": "0",
         "estacao": "Edifício Embratel",
         "status_online": "A"
@@ -425,10 +425,10 @@
         "statusInterno": "Est_Vazia -1",
         "status_operacional": "EO",
         "qtd_bikes_total": "12",
-        "nome": "Pra&#231;a das Flores",
-        "endereco": "Pra&#231;a General Eldoro Correia, na Rua Barbosa de Freitas, 500 / Esquina Av. Padre Ant&#244;nio Tomás",
+        "nome": "Praça das Flores",
+        "endereco": "Praça General Eldoro Correia, na Rua Barbosa de Freitas, 500 / Esquina Av. Padre António Tomás",
         "qtd_bikes_disp_2": "0",
-        "estacao": "Pra&#231;a das Flores",
+        "estacao": "Praça das Flores",
         "status_online": "A"
       }
     },
@@ -442,7 +442,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "12",
         "nome": "Carrefour",
-        "endereco": "Av. Antonio Sales, em frente ao Carrefour / Esquina Avenida Bar&#227;o de Studart",
+        "endereco": "Av. Antonio Sales, em frente ao Carrefour / Esquina Avenida Barão de Studart",
         "qtd_bikes_disp_2": "0",
         "estacao": "Carrefour",
         "status_online": "A"
@@ -457,10 +457,10 @@
         "statusInterno": "Est_Vazia -1",
         "status_operacional": "EO",
         "qtd_bikes_total": "12",
-        "nome": "Pra&#231;a da Imprensa",
-        "endereco": "Avenida Ant&#244;nio Sales, na Pra&#231;a da Imprensa / Esquina Avenida Desembargador Moreira",
+        "nome": "Praça da Imprensa",
+        "endereco": "Avenida António Sales, na Praça da Imprensa / Esquina Avenida Desembargador Moreira",
         "qtd_bikes_disp_2": "0",
-        "estacao": "Pra&#231;a da Imprensa",
+        "estacao": "Praça da Imprensa",
         "status_online": "A"
       }
     },
@@ -490,7 +490,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "9",
         "nome": "Terminal do Papicu",
-        "endereco": "Rua Pereira de Miranda, em frente ao Terminal do Papicu / Pr&#243;ximo &#224; Avenida Almirante Henrique Sab&#243;ia",
+        "endereco": "Rua Pereira de Miranda, em frente ao Terminal do Papicu / Próximo Avenida Almirante Henrique Sabóia",
         "qtd_bikes_disp_2": "3",
         "estacao": "Terminal de Papicu",
         "status_online": "A"
@@ -505,10 +505,10 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "10",
-        "nome": "Pra&#231;a da Gentil&#226;ndia",
+        "nome": "Praça da Gentilândia",
         "endereco": "Rua Waldery Uchoa, 2861 / Esquina Avenida 13 de Maio",
         "qtd_bikes_disp_2": "2",
-        "estacao": "Pra&#231;a da Gentil&#226;ndia",
+        "estacao": "Praça da Gentilândia",
         "status_online": "A"
       }
     },
@@ -553,8 +553,8 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "10",
-        "nome": "Pra&#231;a da Bandeira",
-        "endereco": "Pra&#231;a da Bandeira, na Meton de Alencar, oposto a Faculdade de Direito / Esquina Rua General Sampaio",
+        "nome": "Praça da Bandeira",
+        "endereco": "Praça da Bandeira, na Meton de Alencar, oposto a Faculdade de Direito / Esquina Rua General Sampaio",
         "qtd_bikes_disp_2": "2",
         "estacao": "Faculdade de Direito",
         "status_online": "A"
@@ -569,10 +569,10 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "6",
-        "nome": "Pra&#231;a Otávio Bonfim",
-        "endereco": "Pra&#231;a Otávio Bonfim / Esquina Rua Justiniano de Serpa",
+        "nome": "Praça Otávio Bonfim",
+        "endereco": "Praça Otávio Bonfim / Esquina Rua Justiniano de Serpa",
         "qtd_bikes_disp_2": "6",
-        "estacao": "Pra&#231;a Otávio Bonfim",
+        "estacao": "Praça Otávio Bonfim",
         "status_online": "A"
       }
     },
@@ -617,10 +617,10 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "1",
-        "nome": "Pra&#231;a Monte Castelo",
-        "endereco": "Pra&#231;a Jo&#227;o Pontes, 643 / Esquina Rua Ant&#244;nio Drumond",
+        "nome": "Praça Monte Castelo",
+        "endereco": "Praça João Pontes, 643 / Esquina Rua António Drumond",
         "qtd_bikes_disp_2": "11",
-        "estacao": "Pra&#231;a Monte Castelo",
+        "estacao": "Praça Monte Castelo",
         "status_online": "A"
       }
     },
@@ -633,10 +633,10 @@
         "statusInterno": "Est_Cheia 0",
         "status_operacional": "EO",
         "qtd_bikes_total": "0",
-        "nome": "Frangol&#226;ndia Sgt. Hermínio",
-        "endereco": "Rua Padre Anchieta, em frente ao Supermercado Frangol&#226;ndia / Esquina Avenida Sargento Hermínio Sampaio",
+        "nome": "Frangolândia Sgt. Hermínio",
+        "endereco": "Rua Padre Anchieta, em frente ao Supermercado Frangolândia / Esquina Avenida Sargento Hermínio Sampaio",
         "qtd_bikes_disp_2": "14",
-        "estacao": "Supermercado Frangol&#226;ndia",
+        "estacao": "Supermercado Frangolândia",
         "status_online": "A"
       }
     },
@@ -649,7 +649,7 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "1",
-        "nome": "&#201;rico Mota",
+        "nome": "Érico Mota",
         "endereco": "Avenida Bezerra de Menezes, 2080 / Esquina Rua Eduardo Barros Leal",
         "qtd_bikes_disp_2": "11",
         "estacao": "Esquina com a Rua Eduardo Barros Leal",
@@ -682,7 +682,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "12",
         "nome": "Campos do Pici - UFC",
-        "endereco": "Rua Acesso P&#250;blico, pr&#243;ximo &#224; entrada da UFC / Esquina com a Avenida Humberto Monte",
+        "endereco": "Rua Acesso Público, próximo à entrada da UFC / Esquina com a Avenida Humberto Monte",
         "qtd_bikes_disp_2": "2",
         "estacao": "UFC",
         "status_online": "A"
@@ -698,7 +698,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "1",
         "nome": "Igreja Redonda",
-        "endereco": "Rua Professor Lino Encarna&#231;&#227;o, em frente &#224; Par&#243;quia de Santo Afonso &#8211; Igreja Redonda / Esquina Avenida Jovita Feitosa",
+        "endereco": "Rua Professor Lino Encarnação, em frente à Paróquia de Santo Afonso - Igreja Redonda / Esquina Avenida Jovita Feitosa",
         "qtd_bikes_disp_2": "11",
         "estacao": "Igreja Redonda",
         "status_online": "A"
@@ -729,7 +729,7 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "6",
-        "nome": "Campus Porangabu&#231;u - UFC",
+        "nome": "Campus Porangabuçu",
         "endereco": "Rua Coronel Nunes de Melo, 1315 (UFC) / Esquina Rua Professor Costa Mendes",
         "qtd_bikes_disp_2": "8",
         "estacao": "",
@@ -746,7 +746,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "10",
         "nome": "HEMOCE",
-        "endereco": "Rua Alexandre Bara&#250;na, 773 / Esquina Rua Capit&#227;o Francisco Pedro",
+        "endereco": "Rua Alexandre Baraúna, 773 / Esquina Rua Capitão Francisco Pedro",
         "qtd_bikes_disp_2": "2",
         "estacao": "",
         "status_online": "A"
@@ -761,8 +761,8 @@
         "statusInterno": "Est_Normal 1",
         "status_operacional": "EO",
         "qtd_bikes_total": "2",
-        "nome": "Pra&#231;a Jardim América",
-        "endereco": "Rua Carlos C&#226;mara / Rua Delmiro Faria, em frente &#224; Pra&#231;a Jardim América",
+        "nome": "Praçãim América",
+        "endereco": "Rua Carlos Câmara / Rua Delmiro Faria, em frente à Praçãim América",
         "qtd_bikes_disp_2": "12",
         "estacao": "",
         "status_online": "A"
@@ -858,7 +858,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "3",
         "nome": "Igreja de Fátima",
-        "endereco": "Rua Dom Sebasti&#227;o Leme, em frente &#224; Pra&#231;a Nossa Senhora de Fátima / Esquina Avenida 13 de Maio",
+        "endereco": "Rua Dom Sebastião Leme, em frente à Praçãa Senhora de Fátima / Esquina Avenida 13 de Maio",
         "qtd_bikes_disp_2": "9",
         "estacao": "",
         "status_online": "A"
@@ -874,7 +874,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "8",
         "nome": "Banco do Brasil - 13 de Maio",
-        "endereco": "Rua Padre Barbosa de Jesus, oposto ao n&#250;mero 1345 / Esquina com a Avenida 13 de Maio",
+        "endereco": "Rua Padre Barbosa de Jesus, oposto ao número 1345 / Esquina com a Avenida 13 de Maio",
         "qtd_bikes_disp_2": "4",
         "estacao": "",
         "status_online": "A"
@@ -922,7 +922,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "11",
         "nome": "Contax Borges de Melo",
-        "endereco": "Rua Moreira Gomes, em frente ao Prédio da OI &#8211; CONTAX / Esquina Avenida Borges de Melo",
+        "endereco": "Rua Moreira Gomes, em frente ao Prédio da OI - CONTAX / Esquina Avenida Borges de Melo",
         "qtd_bikes_disp_2": "1",
         "estacao": "",
         "status_online": "A"
@@ -954,7 +954,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "9",
         "nome": "Salesiano Dom Bosco",
-        "endereco": "Avenida Ant&#244;nio Sales, 147 / Esquina Rua Henrique Rab&#234;lo",
+        "endereco": "Avenida António Sales, 147 / Esquina Rua Henrique Rabelo",
         "qtd_bikes_disp_2": "3",
         "estacao": "",
         "status_online": "A"
@@ -970,7 +970,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "9",
         "nome": "teste 1",
-        "endereco": "Avenida Ant&#244;nio Sales, 147 / Esquina Rua Henrique Rab&#234;lo",
+        "endereco": "Avenida António Sales, 147 / Esquina Rua Henrique Rabelo",
         "qtd_bikes_disp_2": "3",
         "estacao": "",
         "status_online": "A"
@@ -986,7 +986,7 @@
         "status_operacional": "EO",
         "qtd_bikes_total": "9",
         "nome": "casa de teste 2",
-        "endereco": "Avenida Ant&#244;nio Sales, 147 / Esquina Rua Henrique Rab&#234;lo",
+        "endereco": "Avenida António Sales, 147 / Esquina Rua Henrique Rabelo",
         "qtd_bikes_disp_2": "3",
         "estacao": "",
         "status_online": "A"
